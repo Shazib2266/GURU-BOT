@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['32460248586', 'Ash', true], 
+  ['923127233098', 'Shezi', true],
+  ['923091853575', 'Ash', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['923127233098','923091853575'] 
+global.prems = ['923127233098', '923091853575', '923127233098']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -42,18 +42,18 @@ global.APIKeys = { // APIKey Here
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,	
   'https://violetics.pw': 'beta',
-  'https://zenzapis.xyz': `${keysxxx}`, 
+  'https://zenzapis.xyz': `${8a255de4e6}`, 
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
 // Sticker WM
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.packname = 'Shezi┃ᴮᴼᵀ' 
+global.author = '@Shezi' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/shezi_hn_yarr\n' 
+global.dygp = 'https://chat.whatsapp.com/FmAAE7Qou8i2LqTojsxieA'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://www.youtube.com/@deathdealer-shezi'
+global.fgpyp = 'https://www.youtube.com/@deathdealer-shezi'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
